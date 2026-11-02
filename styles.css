@@ -1,12 +1,13 @@
 * {
   background-color: beige;
+  text-align: center;
 }
 
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-ul {
+ul, ol {
   display: inline-block;
   text-align: left;
 }
@@ -15,3 +16,14 @@ ul {
   width: 600px;
   height: 500px;
 }
+
+.ingredients {
+  width: 50vw;
+  margin: 0 auto;
+}
+
+.directions {
+  width: 50vw;
+  margin: 0 auto;
+}
+
